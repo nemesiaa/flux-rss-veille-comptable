@@ -1,0 +1,1241 @@
+{
+  "jsonapi": {
+    "version": "1.1",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http://jsonapi.org/format/1.1/"
+        }
+      }
+    }
+  },
+  "data": [
+    {
+      "type": "node--news",
+      "id": "d379407c-5681-4ad5-b8ba-bfca4f2a1db3",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/d379407c-5681-4ad5-b8ba-bfca4f2a1db3?resourceVersion=id%3A23352"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2207,
+        "langcode": "fr",
+        "status": true,
+        "title": "Augmentation de certaines prestations sociales au 1er septembre 2026",
+        "created": "2024-05-03T08:46:06+00:00",
+        "changed": "2026-09-01T08:18:11+00:00",
+        "path": {
+          "alias": "/actualites/augmentation-de-certaines-prestations-sociales-au-1er-septembre-2026",
+          "pid": 4439,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2026-09-01",
+        "field_teaser": {
+          "value": "<p>Au 1er mars 2026, certaines prestations sociales sont augmentées.</p>",
+          "format": "editor",
+          "processed": "<p>Au 1er mars 2026, certaines prestations sociales sont augmentées.</p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "7bcd5af1-5709-4f1b-b0d7-419163e45a26",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/7bcd5af1-5709-4f1b-b0d7-419163e45a26?resourceVersion=id%3A23172"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2348,
+        "langcode": "fr",
+        "status": true,
+        "title": "Des dommages à la suite de l’incendie de forêt survenu dans les Hautes Fagnes: facilités de paiement et droit passerelle",
+        "created": "2026-08-19T08:47:33+00:00",
+        "changed": "2026-08-19T09:00:47+00:00",
+        "path": {
+          "alias": "/actualites/des-dommages-la-suite-de-lincendie-de-foret-survenu-dans-les-hautes-fagnes-facilites-de",
+          "pid": 5208,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2026-08-19",
+        "field_teaser": {
+          "value": "<p>Des facilités de paiement sont octroyées aux travailleurs indépendants qui ont subi des dommages à la suite de l’incendie de forêt survenu dans les Hautes Fagnes en août 2026.</p>",
+          "format": "editor",
+          "processed": "<p>Des facilités de paiement sont octroyées aux travailleurs indépendants qui ont subi des dommages à la suite de l’incendie de forêt survenu dans les Hautes Fagnes en août 2026.</p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "1ed12600-44f6-44cd-a0b0-234d2486096d",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/1ed12600-44f6-44cd-a0b0-234d2486096d?resourceVersion=id%3A22909"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2347,
+        "langcode": "fr",
+        "status": true,
+        "title": "Le numéro spécial Pension devient un numéro standard à partir du 1er septembre 2026",
+        "created": "2026-07-28T14:05:27+00:00",
+        "changed": "2026-08-03T09:28:48+00:00",
+        "path": {
+          "alias": "/actualites/le-numero-special-pension-devient-un-numero-standard-partir-du-1er-septembre-2026",
+          "pid": 5206,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2026-08-03",
+        "field_teaser": {
+          "value": "<p><strong>À partir du 1er septembre 2026</strong>, le numéro de téléphone du numéro spécial Pension change. Le numéro gratuit actuel, le 1765, sera remplacé par un numéro standard : <strong>02 225 17 65</strong>. Le service reste inchangé.</p>",
+          "format": "editor",
+          "processed": "<p><strong>À partir du 1er septembre 2026</strong>, le numéro de téléphone du numéro spécial Pension change. Le numéro gratuit actuel, le 1765, sera remplacé par un numéro standard : <strong>02 225 17 65</strong>. Le service reste inchangé.</p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "934e63e6-a7ee-49b2-b77b-5be718cd57b2",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/934e63e6-a7ee-49b2-b77b-5be718cd57b2?resourceVersion=id%3A21994"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2346,
+        "langcode": "fr",
+        "status": true,
+        "title": "Prolongation du repos de maternité pour les indépendantes",
+        "created": "2026-06-26T12:36:03+00:00",
+        "changed": "2026-07-01T08:28:29+00:00",
+        "path": {
+          "alias": "/actualites/prolongation-du-repos-de-maternite-pour-les-independantes",
+          "pid": 4710,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2026-07-01",
+        "field_teaser": {
+          "value": "<p>Actuellement, la période du repos de maternité pour les travailleuses indépendantes est de 12 semaines. Elle se compose d'une période de repos obligatoire de 3 semaines et d'une période de repos facultative de 9 semaines à temps plein ou de 18 semaines à mi-temps.</p>",
+          "format": "editor",
+          "processed": "<p>Actuellement, la période du repos de maternité pour les travailleuses indépendantes est de 12 semaines. Elle se compose d'une période de repos obligatoire de 3 semaines et d'une période de repos facultative de 9 semaines à temps plein ou de 18 semaines à mi-temps.</p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "71271751-0967-4c1d-9b92-9fab0f679b5d",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/71271751-0967-4c1d-9b92-9fab0f679b5d?resourceVersion=id%3A21820"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2342,
+        "langcode": "fr",
+        "status": true,
+        "title": "Réforme des pensions: ce qui change pour les indépendants",
+        "created": "2026-05-28T12:33:25+00:00",
+        "changed": "2026-06-08T11:55:27+00:00",
+        "path": {
+          "alias": "/actualites/reforme-des-pensions-ce-qui-change-pour-les-independants",
+          "pid": 4702,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2026-06-08",
+        "field_teaser": {
+          "value": "<p>Le 28 mai 2026, la loi «Arizona» sur la réforme des pensions a définitivement été approuvée par la Chambre des représentants. Cela signifie que plusieurs changements concernant les pensions des travailleurs indépendants entreront bientôt en vigueur.</p>",
+          "format": "editor",
+          "processed": "<p>Le 28 mai 2026, la loi «Arizona» sur la réforme des pensions a définitivement été approuvée par la Chambre des représentants. Cela signifie que plusieurs changements concernant les pensions des travailleurs indépendants entreront bientôt en vigueur.</p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "1b29cf04-916c-4a8b-a008-843167448ef7",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/1b29cf04-916c-4a8b-a008-843167448ef7?resourceVersion=id%3A21532"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2337,
+        "langcode": "fr",
+        "status": true,
+        "title": "Le secteur indépendant poursuit sa croissance en Belgique",
+        "created": "2026-05-18T08:35:00+00:00",
+        "changed": "2026-05-19T07:30:04+00:00",
+        "path": {
+          "alias": "/actualites/le-secteur-independant-poursuit-sa-croissance-en-belgique",
+          "pid": 4682,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2026-05-19",
+        "field_teaser": {
+          "value": "<p>Het afgelopen jaar 2025 bevestigt de centrale rol van de zelfstandigen in de Belgische economie. Op 31 december 2025 bereikte hun aantal 1.327.994 (851.412 mannen en 476.582 vrouwen), met andere woorden een toename van 2,17 % ten opzichte van 2024.</p>",
+          "format": "editor",
+          "processed": "<p>Het afgelopen jaar 2025 bevestigt de centrale rol van de zelfstandigen in de Belgische economie. Op 31 december 2025 bereikte hun aantal 1.327.994 (851.412 mannen en 476.582 vrouwen), met andere woorden een toename van 2,17 % ten opzichte van 2024.</p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "055b328f-77d7-4cb2-8dc4-f27b6c7c0094",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/055b328f-77d7-4cb2-8dc4-f27b6c7c0094?resourceVersion=id%3A21473"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2336,
+        "langcode": "fr",
+        "status": true,
+        "title": "Avez-vous déjà activé votre eBox Citoyen et votre e-Box Entreprise?",
+        "created": "2026-05-04T07:21:14+00:00",
+        "changed": "2026-05-13T07:44:41+00:00",
+        "path": {
+          "alias": "/actualites/avez-vous-deja-active-votre-ebox-citoyen-et-votre-e-box-entreprise",
+          "pid": 4680,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2026-05-04",
+        "field_teaser": {
+          "value": "<p>Saviez-vous que l’INASTI envoie de nombreux documents par voie électronique via l'eBox Citoyen et l'e-Box Entreprise?</p>",
+          "format": "editor",
+          "processed": "<p>Saviez-vous que l’INASTI envoie de nombreux documents par voie électronique via l'eBox Citoyen et l'e-Box Entreprise?</p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "e9a9143e-ddd6-4880-ae63-bb7237fa0294",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/e9a9143e-ddd6-4880-ae63-bb7237fa0294?resourceVersion=id%3A21541"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2335,
+        "langcode": "fr",
+        "status": true,
+        "title": "Difficultés suite à la crise énergétique: facilités de paiement",
+        "created": "2026-04-27T07:08:28+00:00",
+        "changed": "2026-05-19T07:34:58+00:00",
+        "path": {
+          "alias": "/actualites/difficultes-suite-la-crise-energetique-facilites-de-paiement",
+          "pid": 4678,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2026-04-27",
+        "field_teaser": {
+          "value": "<p>Des facilités de paiement sont octroyées aux travailleurs indépendants qui éprouvent des difficultés financières&nbsp;en raison de la hausse des prix des combustibles fossiles suite à la crise énergétique.</p>",
+          "format": "editor",
+          "processed": "<p>Des facilités de paiement sont octroyées aux travailleurs indépendants qui éprouvent des difficultés financières&nbsp;en raison de la hausse des prix des combustibles fossiles suite à la crise énergétique.</p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "1e99c454-1954-4607-bc1c-ea68ce9f1061",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/1e99c454-1954-4607-bc1c-ea68ce9f1061?resourceVersion=id%3A21272"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2333,
+        "langcode": "fr",
+        "status": true,
+        "title": "Réforme des pensions : mise à jour",
+        "created": "2026-03-10T19:38:26+00:00",
+        "changed": "2026-03-11T08:52:22+00:00",
+        "path": {
+          "alias": "/actualites/reforme-des-pensions-mise-jour",
+          "pid": 4673,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2026-03-11",
+        "field_teaser": {
+          "value": "<p>Le Conseil des ministres est parvenu à un accord le 6 mars lors de la troisième lecture de la loi sur les pensions. Cet accord finalise et précise la réforme des pensions.</p>",
+          "format": "editor",
+          "processed": "<p>Le Conseil des ministres est parvenu à un accord le 6 mars lors de la troisième lecture de la loi sur les pensions. Cet accord finalise et précise la réforme des pensions.</p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "94857967-ba21-4b87-a93d-2fee0c6b20b5",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/94857967-ba21-4b87-a93d-2fee0c6b20b5?resourceVersion=id%3A21605"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2326,
+        "langcode": "fr",
+        "status": true,
+        "title": "Attention au phishing via de faux e‑mails au nom de l’INASTI",
+        "created": "2026-01-08T15:37:56+00:00",
+        "changed": "2026-05-22T11:39:56+00:00",
+        "path": {
+          "alias": "/actualites/attention-au-phishing-de-faux-e-mails-au-nom-de-linasti",
+          "pid": 4660,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2026-02-25",
+        "field_teaser": {
+          "value": "<p>De faux e-mails circulent actuellement au nom de l’<strong>INASTI.</strong></p>",
+          "format": "editor",
+          "processed": "<p>De faux e-mails circulent actuellement au nom de l’<strong>INASTI.</strong></p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "bc36d0cb-ff70-4307-b18e-c3b952f61fa6",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/bc36d0cb-ff70-4307-b18e-c3b952f61fa6?resourceVersion=id%3A20641"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 1906,
+        "langcode": "fr",
+        "status": true,
+        "title": "Cotisations 2026",
+        "created": "2023-01-30T10:47:45+00:00",
+        "changed": "2026-01-05T09:19:10+00:00",
+        "path": {
+          "alias": "/actualites/cotisations-2026",
+          "pid": 3565,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2026-01-05",
+        "field_teaser": {
+          "value": "<p>Les montants pour les cotisations 2026 ont été publiés sur le site web.</p>",
+          "format": "editor",
+          "processed": "<p>Les montants pour les cotisations 2026 ont été publiés sur le site web.</p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "08b86fc6-2bde-446e-9462-44014f590998",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/08b86fc6-2bde-446e-9462-44014f590998?resourceVersion=id%3A20529"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2325,
+        "langcode": "fr",
+        "status": true,
+        "title": "Extension de la dispense des cotisations sociales après l'accouchement",
+        "created": "2025-12-18T12:36:25+00:00",
+        "changed": "2025-12-18T13:08:35+00:00",
+        "path": {
+          "alias": "/actualites/extension-de-la-dispense-des-cotisations-sociales-apres-laccouchement",
+          "pid": 4658,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2025-12-18",
+        "field_teaser": {
+          "value": "<p>Une travailleuse indépendante ne paie pas de cotisations sociales pour le trimestre qui suit le trimestre de son accouchement.</p>",
+          "format": "editor",
+          "processed": "<p>Une travailleuse indépendante ne paie pas de cotisations sociales pour le trimestre qui suit le trimestre de son accouchement.</p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "bca65a51-3321-4ae0-97bd-da3cf9f0c434",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/bca65a51-3321-4ae0-97bd-da3cf9f0c434?resourceVersion=id%3A20533"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2173,
+        "langcode": "fr",
+        "status": true,
+        "title": "Heures d'ouverture de l'INASTI durant la période de fin d'année",
+        "created": "2023-12-19T10:11:32+00:00",
+        "changed": "2025-12-18T13:29:07+00:00",
+        "path": {
+          "alias": "/actualites/heures-douverture-de-linasti-durant-la-periode-de-fin-dannee",
+          "pid": 4378,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2025-12-18",
+        "field_teaser": {
+          "value": "<p>Durant la période de fin d'année, les bureaux de l'INASTI seront <strong>fermés du 25 décembre au 2 janvier inclus</strong>.<br>Vous pourrez à nouveau nous contacter à partir du 3 janvier pour fixer un rendez-vous.</p>",
+          "format": "editor",
+          "processed": "<p>Durant la période de fin d'année, les bureaux de l'INASTI seront <strong>fermés du 25 décembre au 2 janvier inclus</strong>.<br>Vous pourrez à nouveau nous contacter à partir du 3 janvier pour fixer un rendez-vous.</p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "b44379a3-d5a0-4274-9ee3-92b034471dfe",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/b44379a3-d5a0-4274-9ee3-92b034471dfe?resourceVersion=id%3A20439"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2320,
+        "langcode": "fr",
+        "status": true,
+        "title": "Changement du gestionnaire pour les comptes bancaires des autorités fédérales",
+        "created": "2025-12-01T07:55:07+00:00",
+        "changed": "2025-12-15T12:19:35+00:00",
+        "path": {
+          "alias": "/actualites/changement-du-gestionnaire-pour-les-comptes-bancaires-des-autorites-federales",
+          "pid": 4648,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2025-12-15",
+        "field_teaser": {
+          "value": "<p>Le week-end des 13 et 14 décembre 2025, les comptes bancaires des autorités fédérales ont été transférés à BNP Paribas Fortis (comptes BEXX 679X XXXX XXXX). Cela n'a aucun impact sur le numéro de ces comptes bancaires. Cependant, depuis le lundi 15 décembre 2025, le code BIC des comptes est GEBABEBB.</p>",
+          "format": "editor",
+          "processed": "<p>Le week-end des 13 et 14 décembre 2025, les comptes bancaires des autorités fédérales ont été transférés à BNP Paribas Fortis (comptes BEXX 679X XXXX XXXX). Cela n'a aucun impact sur le numéro de ces comptes bancaires. Cependant, depuis le lundi 15 décembre 2025, le code BIC des comptes est GEBABEBB.</p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "6ab4117f-18ea-4f07-83bd-d341abb2a68e",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/6ab4117f-18ea-4f07-83bd-d341abb2a68e?resourceVersion=id%3A20355"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2322,
+        "langcode": "fr",
+        "status": true,
+        "title": "Obligation de retenue dans le statut social des travailleurs indépendants à partir de mi-2026",
+        "created": "2025-12-04T10:15:55+00:00",
+        "changed": "2025-12-08T10:18:11+00:00",
+        "path": {
+          "alias": "/actualites/obligation-de-retenue-dans-le-statut-social-des-travailleurs-independants-partir-de-mi",
+          "pid": 4652,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2025-12-08",
+        "field_teaser": {
+          "value": "<p>L'obligation de retenue dans le statut social des travailleurs indépendants sera d'application à partir de mi-2026. L’obligation de retenue est une obligation pour les donneurs d’ordre et entrepreneurs qui exécutent (ou font exécuter) des activités dans les secteurs de la construction et du nettoyage.</p>",
+          "format": "editor",
+          "processed": "<p>L'obligation de retenue dans le statut social des travailleurs indépendants sera d'application à partir de mi-2026. L’obligation de retenue est une obligation pour les donneurs d’ordre et entrepreneurs qui exécutent (ou font exécuter) des activités dans les secteurs de la construction et du nettoyage.</p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "893c24d4-04d5-4c3e-90af-a0a835be7576",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/893c24d4-04d5-4c3e-90af-a0a835be7576?resourceVersion=id%3A20087"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2319,
+        "langcode": "fr",
+        "status": true,
+        "title": "Fin du paiement des pensions par assignation postale le 1er janvier 2026",
+        "created": "2025-10-02T14:29:08+00:00",
+        "changed": "2025-10-03T08:04:40+00:00",
+        "path": {
+          "alias": "/actualites/fin-du-paiement-des-pensions-par-assignation-postale-le-1er-janvier-2026",
+          "pid": 4646,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2025-10-03",
+        "field_teaser": {
+          "value": "<p>Vous bénéficiez d'une pension de travailleur indépendant et elle vous est payée par le facteur à domicile (assignation postale) ? A partir du 1er janvier 2026, cette possibilité disparaît.</p>",
+          "format": "editor",
+          "processed": "<p>Vous bénéficiez d'une pension de travailleur indépendant et elle vous est payée par le facteur à domicile (assignation postale) ? A partir du 1er janvier 2026, cette possibilité disparaît.</p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "897b5a81-e80a-44d8-ad96-6dd04ab13232",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/897b5a81-e80a-44d8-ad96-6dd04ab13232?resourceVersion=id%3A18951"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2296,
+        "langcode": "fr",
+        "status": true,
+        "title": "Droits à la pension pour les travailleurs indépendants à partir de l’âge de la pension",
+        "created": "2025-08-05T07:51:37+00:00",
+        "changed": "2025-08-05T09:58:48+00:00",
+        "path": {
+          "alias": "/actualites/droits-la-pension-pour-les-travailleurs-independants-partir-de-lage-de-la-pension",
+          "pid": 4607,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2025-08-05",
+        "field_teaser": {
+          "value": "<p>Vous continuez de travailler en tant qu’indépendant sans prendre votre pension, après avoir atteint l’âge légal de la pension ?&nbsp; Dans ce cas, vous vous constituerez automatiquement des droits à la pension supplémentaires à compter du 1er octobre 2025.</p>",
+          "format": "editor",
+          "processed": "<p>Vous continuez de travailler en tant qu’indépendant sans prendre votre pension, après avoir atteint l’âge légal de la pension ?&nbsp; Dans ce cas, vous vous constituerez automatiquement des droits à la pension supplémentaires à compter du 1er octobre 2025.</p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "1357cdb4-bc5b-4c28-b29b-956288b14fc9",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/1357cdb4-bc5b-4c28-b29b-956288b14fc9?resourceVersion=id%3A18843"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2298,
+        "langcode": "fr",
+        "status": true,
+        "title": "Réforme des pensions: accord d'été du 21 juillet 2025",
+        "created": "2025-08-04T11:26:32+00:00",
+        "changed": "2025-08-04T13:23:16+00:00",
+        "path": {
+          "alias": "/actualites/reforme-des-pensions-accord-dete-du-21-juillet-2025",
+          "pid": 4606,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2025-08-04",
+        "field_teaser": {
+          "value": "<p>Le 21 juillet 2025 le conseil des ministres a conclu un premier accord sur la mise en œuvre d'un certain nombre de projets issus de l'accord de gouvernement, dont plusieurs réformes portant sur les pensions des indépendants.</p>",
+          "format": "editor",
+          "processed": "<p>Le 21 juillet 2025 le conseil des ministres a conclu un premier accord sur la mise en œuvre d'un certain nombre de projets issus de l'accord de gouvernement, dont plusieurs réformes portant sur les pensions des indépendants.</p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "1798b7b9-69d5-457b-a108-ca52dd158b27",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/1798b7b9-69d5-457b-a108-ca52dd158b27?resourceVersion=id%3A17515"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2293,
+        "langcode": "fr",
+        "status": true,
+        "title": "Analyse des grandes tendances 2024 du secteur indépendant",
+        "created": "2025-05-20T09:14:21+00:00",
+        "changed": "2025-05-28T07:49:47+00:00",
+        "path": {
+          "alias": "/actualites/analyse-des-grandes-tendances-2024-du-secteur-independant",
+          "pid": 4593,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2025-05-28",
+        "field_teaser": {
+          "value": "<p>Au 31 décembre 2024, la Belgique comptait 1.299.825 indépendants (835.191 hommes et 464.634 femmes), soit 20.655 de plus que l'an dernier. Comme c'est le cas depuis plus de deux décennies, le nombre de travailleurs indépendants poursuit sa progression.</p>",
+          "format": "editor",
+          "processed": "<p>Au 31 décembre 2024, la Belgique comptait 1.299.825 indépendants (835.191 hommes et 464.634 femmes), soit 20.655 de plus que l'an dernier. Comme c'est le cas depuis plus de deux décennies, le nombre de travailleurs indépendants poursuit sa progression.</p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "64755f6c-565b-406d-a6b2-fb749da934c9",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/64755f6c-565b-406d-a6b2-fb749da934c9?resourceVersion=id%3A15481"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2264,
+        "langcode": "fr",
+        "status": true,
+        "title": "Difficultés à la maladie de la langue bleue: prolongation des facilités de paiement",
+        "created": "2024-08-23T08:06:42+00:00",
+        "changed": "2024-11-25T12:55:39+00:00",
+        "path": {
+          "alias": "/actualites/difficultes-la-maladie-de-la-langue-bleue-prolongation-des-facilites-de-paiement",
+          "pid": 4540,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2024-11-25",
+        "field_teaser": {
+          "value": "<p>Les <strong>facilités de paiement</strong> accordées aux travailleurs indépendants du secteur bovin et ovin qui rencontrent des difficultés en raison de <strong>la maladie de la langue bleue</strong>, ont été <strong>prolongées</strong>.</p>\r\n",
+          "format": "editor",
+          "processed": "<p>Les <strong>facilités de paiement</strong> accordées aux travailleurs indépendants du secteur bovin et ovin qui rencontrent des difficultés en raison de <strong>la maladie de la langue bleue</strong>, ont été <strong>prolongées</strong>.</p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "ca235106-eea0-4181-a8ab-ef1348463232",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/ca235106-eea0-4181-a8ab-ef1348463232?resourceVersion=id%3A15032"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2269,
+        "langcode": "fr",
+        "status": true,
+        "title": "Le CGG inaugure son nouveau site web",
+        "created": "2024-10-17T12:40:33+00:00",
+        "changed": "2024-10-18T07:09:54+00:00",
+        "path": {
+          "alias": "/actualites/le-cgg-inaugure-son-nouveau-site-web",
+          "pid": 4547,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2024-10-17",
+        "field_teaser": {
+          "value": "<p>Le Comité Général de Gestion pour le statut social des travailleurs indépendants (CGG) a mis en ligne un nouveau site web dédié.</p>\r\n",
+          "format": "editor",
+          "processed": "<p>Le Comité Général de Gestion pour le statut social des travailleurs indépendants (CGG) a mis en ligne un nouveau site web dédié.</p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "23cc094a-fd12-495a-8f6c-61cca9268511",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/23cc094a-fd12-495a-8f6c-61cca9268511?resourceVersion=id%3A14159"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2261,
+        "langcode": "fr",
+        "status": true,
+        "title": "Inscription obligatoire des aidants et des associés actifs auprès de la BCE",
+        "created": "2024-06-27T12:20:44+00:00",
+        "changed": "2024-07-01T08:22:33+00:00",
+        "path": {
+          "alias": "/actualites/inscription-obligatoire-des-aidants-et-des-associes-actifs-aupres-de-la-bce",
+          "pid": 4530,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2024-07-01",
+        "field_teaser": {
+          "value": "<p>À partir du 1er juillet 2024, les indépendants et les sociétés actives dans le secteur des travaux immobiliers, c’est-à-dire celui de la construction et du nettoyage, ont l'obligation d'inscrire leurs aidants et leurs associés actifs dans la Banque-Carrefour des Entreprises (BCE). De même, ils doivent y mettre à jour les informations s'y rapportant.</p>\r\n",
+          "format": "editor",
+          "processed": "<p>À partir du 1er juillet 2024, les indépendants et les sociétés actives dans le secteur des travaux immobiliers, c’est-à-dire celui de la construction et du nettoyage, ont l'obligation d'inscrire leurs aidants et leurs associés actifs dans la Banque-Carrefour des Entreprises (BCE). De même, ils doivent y mettre à jour les informations s'y rapportant.</p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "24263999-6e9b-4c4f-be40-c7c59ffe623a",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/24263999-6e9b-4c4f-be40-c7c59ffe623a?resourceVersion=id%3A14985"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2260,
+        "langcode": "fr",
+        "status": true,
+        "title": "Le bonus pension à partir du 1er juillet",
+        "created": "2024-06-26T08:32:08+00:00",
+        "changed": "2024-10-14T09:46:14+00:00",
+        "path": {
+          "alias": "/actualites/le-bonus-pension-partir-du-1er-juillet",
+          "pid": 4528,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2024-06-26",
+        "field_teaser": {
+          "value": "<p>À partir du 1er juillet 2024, vous pouvez vous constituer un bonus pension si vous reportez votre pension et que vous continuez à travailler. Pour avoir droit à ce bonus, vous devez cependant prendre votre pension au plus tôt le 1er janvier 2025.</p>\r\n",
+          "format": "editor",
+          "processed": "<p>À partir du 1er juillet 2024, vous pouvez vous constituer un bonus pension si vous reportez votre pension et que vous continuez à travailler. Pour avoir droit à ce bonus, vous devez cependant prendre votre pension au plus tôt le 1er janvier 2025.</p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "5ec86828-72a7-4634-b927-7177eacb58c7",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/5ec86828-72a7-4634-b927-7177eacb58c7?resourceVersion=id%3A13605"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2227,
+        "langcode": "fr",
+        "status": true,
+        "title": "Retour sur les grandes tendances 2023 du secteur indépendant",
+        "created": "2024-05-23T07:12:11+00:00",
+        "changed": "2024-05-23T08:12:29+00:00",
+        "path": {
+          "alias": "/actualites/retour-sur-les-grandes-tendances-2023-du-secteur-independant",
+          "pid": 4469,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2024-05-23",
+        "field_teaser": {
+          "value": "<p>La Belgique compte 1.279.170 indépendants au 31 décembre 2023 (824.296 hommes et 454.874 femmes), soit 1,73 % de plus que l'an dernier. Comme depuis plus de 20 ans, le nombre de travailleurs indépendants augmente donc encore.</p>\r\n",
+          "format": "editor",
+          "processed": "<p>La Belgique compte 1.279.170 indépendants au 31 décembre 2023 (824.296 hommes et 454.874 femmes), soit 1,73 % de plus que l'an dernier. Comme depuis plus de 20 ans, le nombre de travailleurs indépendants augmente donc encore.</p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "34e07267-ec2c-4e1d-902b-6047b2d0c515",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/34e07267-ec2c-4e1d-902b-6047b2d0c515?resourceVersion=id%3A12881"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2201,
+        "langcode": "fr",
+        "status": true,
+        "title": "Réforme des pensions :  nouveautés en matière de pension",
+        "created": "2024-04-04T14:38:44+00:00",
+        "changed": "2024-04-05T13:58:44+00:00",
+        "path": {
+          "alias": "/actualites/reforme-des-pensions-nouveautes-en-matiere-de-pension",
+          "pid": 4427,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2024-04-05",
+        "field_teaser": {
+          "value": "<p class=\"MsoNormal\">Durant l’après-midi du jeudi 4 avril, le parlement fédéral a approuvé la réforme des pensions. Lors de la conférence de presse du 5 avril, le Service Pensions et l’INASTI ont présenté un aperçu des nouveautés, comment ils appliqueront la nouvelle législation et ce que le citoyen peut attendre d’eux.</p>\r\n",
+          "format": "editor",
+          "processed": "<p>Durant l’après-midi du jeudi 4 avril, le parlement fédéral a approuvé la réforme des pensions. Lors de la conférence de presse du 5 avril, le Service Pensions et l’INASTI ont présenté un aperçu des nouveautés, comment ils appliqueront la nouvelle législation et ce que le citoyen peut attendre d’eux.</p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "8ffa0fd2-e7f4-4423-910b-3082c5dd0b86",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/8ffa0fd2-e7f4-4423-910b-3082c5dd0b86?resourceVersion=id%3A12739"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2196,
+        "langcode": "fr",
+        "status": true,
+        "title": "Difficultés du secteur des travaux forestiers et de l'exploitation forestière: facilités de paiement",
+        "created": "2024-03-21T09:57:14+00:00",
+        "changed": "2024-03-22T14:16:57+00:00",
+        "path": {
+          "alias": "/actualites/difficultes-du-secteur-des-travaux-forestiers-et-de-lexploitation-forestiere-facilites",
+          "pid": 4419,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2024-03-21",
+        "field_teaser": {
+          "value": "<p>Des facilités de paiement sont octroyées aux travailleurs indépendants qui rencontrent des difficultés en raison de la crise dans le secteur des travaux forestiers et de l'exploitation forestière.</p>\r\n",
+          "format": "editor",
+          "processed": "<p>Des facilités de paiement sont octroyées aux travailleurs indépendants qui rencontrent des difficultés en raison de la crise dans le secteur des travaux forestiers et de l'exploitation forestière.</p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "9a4ebcad-a6a3-484f-9836-bc888538d27b",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/9a4ebcad-a6a3-484f-9836-bc888538d27b?resourceVersion=id%3A12691"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2194,
+        "langcode": "fr",
+        "status": true,
+        "title": "Modifications diverses relatives à l’assurance incapacité de travail des travailleurs indépendants",
+        "created": "2024-03-14T08:30:22+00:00",
+        "changed": "2024-03-14T13:03:02+00:00",
+        "path": {
+          "alias": "/actualites/modifications-diverses-relatives-lassurance-incapacite-de-travail-des-travailleurs",
+          "pid": 4415,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2024-03-14",
+        "field_teaser": {
+          "value": "<p>L'assurance incapacité de travail des travailleurs indépendants a été modifiée à plusieurs égards.</p>\r\n",
+          "format": "editor",
+          "processed": "<p>L'assurance incapacité de travail des travailleurs indépendants a été modifiée à plusieurs égards.</p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "27838a60-f325-4353-8590-6f7f48fb2ba4",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/27838a60-f325-4353-8590-6f7f48fb2ba4?resourceVersion=id%3A12565"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2192,
+        "langcode": "fr",
+        "status": true,
+        "title": "Journée internationale des droits des femmes: coup de projecteur sur le genre et la pension",
+        "created": "2024-03-08T09:23:40+00:00",
+        "changed": "2024-03-08T14:41:04+00:00",
+        "path": {
+          "alias": "/actualites/journee-internationale-des-droits-des-femmes-coup-de-projecteur-sur-le-genre-et-la",
+          "pid": 4411,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2024-03-08",
+        "field_teaser": {
+          "value": "<p><span><span><span><span lang=\"fr\"><span><span>À l’occasion de la Journée internationale des droits des femmes, nous mettons à l’honneur certaines initiatives de l’année écoulée axées sur le thème très important \"Genre et pension\". </span></span></span></span> Les chiffres clés sont disponibles sur PensionStat.be, une initiative de Sigedis, du SFPD et de l'INASTI, soutenue par le Bureau fédéral du Plan et le SPF Sécurité sociale.</span></span></p>\r\n",
+          "format": "editor",
+          "processed": "<p><span><span><span><span lang=\"fr\"><span><span>À l’occasion de la Journée internationale des droits des femmes, nous mettons à l’honneur certaines initiatives de l’année écoulée axées sur le thème très important \"Genre et pension\". </span></span></span></span> Les chiffres clés sont disponibles sur PensionStat.be, une initiative de Sigedis, du SFPD et de l'INASTI, soutenue par le Bureau fédéral du Plan et le SPF Sécurité sociale.</span></span></p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "904f5669-4214-416f-8072-7f3c91b6781a",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/904f5669-4214-416f-8072-7f3c91b6781a?resourceVersion=id%3A12095"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2180,
+        "langcode": "fr",
+        "status": true,
+        "title": "1 adulte sur 3 a consulté mypension.be en 2023",
+        "created": "2024-01-18T14:09:00+00:00",
+        "changed": "2024-01-18T14:19:35+00:00",
+        "path": {
+          "alias": "/actualites/1-adulte-sur-3-consulte-mypensionbe-en-2023",
+          "pid": 4392,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2024-01-18",
+        "field_teaser": {
+          "value": "<p>L'année passée, <a href=\"https://www.mypension.be/fr\">mypension.be</a> a encore battu son record de visiteurs uniques.</p>\r\n",
+          "format": "editor",
+          "processed": "<p>L'année passée, <a href=\"https://www.mypension.be/fr\">mypension.be</a> a encore battu son record de visiteurs uniques.</p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "20da87f6-aa12-4e47-8bc0-f246319f5c55",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/20da87f6-aa12-4e47-8bc0-f246319f5c55?resourceVersion=id%3A11231"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2128,
+        "langcode": "fr",
+        "status": true,
+        "title": "Augmentation de certaines prestations sociales au 1er novembre 2023",
+        "created": "2023-06-29T12:48:58+00:00",
+        "changed": "2023-11-06T07:41:13+00:00",
+        "path": {
+          "alias": "/actualites/augmentation-de-certaines-prestations-sociales-au-1er-novembre-2023",
+          "pid": 4288,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2023-11-03",
+        "field_teaser": {
+          "value": "<p><span><span><span><span lang=\"NL-BE\"><span><span>Augmentation de certaines prestations sociales au 1er novembre 2023.</span></span></span></span></span></span></p>\r\n",
+          "format": "editor",
+          "processed": "<p><span><span><span><span lang=\"NL-BE\"><span><span>Augmentation de certaines prestations sociales au 1er novembre 2023.</span></span></span></span></span></span></p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "ecad429d-9e47-4a05-ac5f-cff3b658ca4c",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/ecad429d-9e47-4a05-ac5f-cff3b658ca4c?resourceVersion=id%3A11032"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2155,
+        "langcode": "fr",
+        "status": true,
+        "title": "Demandez votre pension rapidement et facilement via mypension.be",
+        "created": "2023-10-18T09:07:44+00:00",
+        "changed": "2023-10-18T11:43:31+00:00",
+        "path": {
+          "alias": "/actualites/demandez-votre-pension-rapidement-et-facilement-mypensionbe",
+          "pid": 4340,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2023-10-18",
+        "field_teaser": {
+          "value": "<p>Votre situation vous oblige à introduire une demande ? &nbsp;Dans ce cas, my<strong>pension</strong>.be vous offre la possibilité de le faire directement vous-même.</p>\r\n",
+          "format": "editor",
+          "processed": "<p>Votre situation vous oblige à introduire une demande ? &nbsp;Dans ce cas, my<strong>pension</strong>.be vous offre la possibilité de le faire directement vous-même.</p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "77768de9-03a3-4293-a565-0119e6b10bff",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/77768de9-03a3-4293-a565-0119e6b10bff?resourceVersion=id%3A10493"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2134,
+        "langcode": "fr",
+        "status": true,
+        "title": "Extension de l’assimilation à une activité complémentaire aux personnes handicapées",
+        "created": "2023-07-25T09:56:17+00:00",
+        "changed": "2023-07-27T13:47:30+00:00",
+        "path": {
+          "alias": "/actualites/extension-de-lassimilation-une-activite-complementaire-aux-personnes-handicapees",
+          "pid": 4303,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2023-07-27",
+        "field_teaser": {
+          "value": "<p><span><span><span><span lang=\"fr\"><span>Grâce à la réglementation \"assimilation à une activité complémentaire\" ou \"article 37\", vous pouvez, en tant qu’indépendant/aidant à titre principal ou conjoint aidant ayant des revenus limités, bénéficier d‘un régime de cotisations avantageux.&nbsp;A partir du 1er&nbsp;juillet, les personnes reconnues comme personnes handicapées peuvent également bénéficier de ce régime.</span></span></span></span></span></p>\r\n",
+          "format": "editor",
+          "processed": "<p><span><span><span><span lang=\"fr\"><span>Grâce à la réglementation \"assimilation à une activité complémentaire\" ou \"article 37\", vous pouvez, en tant qu’indépendant/aidant à titre principal ou conjoint aidant ayant des revenus limités, bénéficier d‘un régime de cotisations avantageux.&nbsp;A partir du 1er&nbsp;juillet, les personnes reconnues comme personnes handicapées peuvent également bénéficier de ce régime.</span></span></span></span></span></p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "f8e2c0bb-c701-48a6-a5d4-133aeb66be82",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/f8e2c0bb-c701-48a6-a5d4-133aeb66be82?resourceVersion=id%3A10146"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2130,
+        "langcode": "fr",
+        "status": true,
+        "title": "L'INASTI participe à la Foire de Libramont",
+        "created": "2023-07-06T08:36:03+00:00",
+        "changed": "2023-07-14T13:32:01+00:00",
+        "path": {
+          "alias": "/actualites/linasti-participe-la-foire-de-libramont",
+          "pid": 4295,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2023-07-14",
+        "field_teaser": {
+          "value": "<p class=\"MsoNormal\"><span lang=\"NL-BE\"><span>L’INASTI participe à la Foire de Libramont du 28 au 31 juillet.</span></span></p>\r\n",
+          "format": "editor",
+          "processed": "<p><span lang=\"NL-BE\"><span>L’INASTI participe à la Foire de Libramont du 28 au 31 juillet.</span></span></p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "60cf6008-320d-4415-8857-0f8e7ea4b9dc",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/60cf6008-320d-4415-8857-0f8e7ea4b9dc?resourceVersion=id%3A9551"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2125,
+        "langcode": "fr",
+        "status": true,
+        "title": "Retour sur les grandes tendances 2022 du secteur indépendant",
+        "created": "2023-06-06T06:41:47+00:00",
+        "changed": "2023-06-06T07:07:35+00:00",
+        "path": {
+          "alias": "/actualites/retour-sur-les-grandes-tendances-2022-du-secteur-independant",
+          "pid": 4280,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2023-06-06",
+        "field_teaser": {
+          "value": "<p><span><span lang=\"FR-BE\">Comme depuis près de 20 ans, le nombre de travailleurs indépendants augmente encore en 2022. La Belgique compte désormais 1.257.356 indépendants au 31 décembre 2022, soit <span>&nbsp;</span>2,19 % de plus que l'an dernier.</span></span></p>\r\n",
+          "format": "editor",
+          "processed": "<p><span><span lang=\"FR-BE\">Comme depuis près de 20 ans, le nombre de travailleurs indépendants augmente encore en 2022. La Belgique compte désormais 1.257.356 indépendants au 31 décembre 2022, soit <span>&nbsp;</span>2,19 % de plus que l'an dernier.</span></span></p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "d80ac455-3d20-450f-9dd1-a8a09e93bb88",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/d80ac455-3d20-450f-9dd1-a8a09e93bb88?resourceVersion=id%3A8508"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2096,
+        "langcode": "fr",
+        "status": true,
+        "title": "Trajet retour au travail pour les indépendants en incapacité de travail",
+        "created": "2023-03-28T14:57:50+00:00",
+        "changed": "2023-04-12T13:03:42+00:00",
+        "path": {
+          "alias": "/actualites/trajet-retour-au-travail-pour-les-independants-en-incapacite-de-travail",
+          "pid": 4216,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2023-03-14",
+        "field_teaser": {
+          "value": "<p>A partir de 2023, les indépendants en incapacité de travail peuvent également entamer un trajet retour au travail. L'indépendant et sa mutualité vérifieront ensuite les modalités de reprise du travail. De cette manière, l'indépendant est mieux accompagné dans son retour sur le marché du travail.</p>\r\n",
+          "format": "editor",
+          "processed": "<p>A partir de 2023, les indépendants en incapacité de travail peuvent également entamer un trajet retour au travail. L'indépendant et sa mutualité vérifieront ensuite les modalités de reprise du travail. De cette manière, l'indépendant est mieux accompagné dans son retour sur le marché du travail.</p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "c768f162-5a12-4684-8bde-74ed052cf4f5",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/c768f162-5a12-4684-8bde-74ed052cf4f5?resourceVersion=id%3A6739"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2095,
+        "langcode": "fr",
+        "status": true,
+        "title": "Pension gap de 23% : l’écart de pension entre les femmes et les hommes détaillé sur PensionStat.be",
+        "created": "2023-03-28T14:44:01+00:00",
+        "changed": "2023-03-28T14:48:48+00:00",
+        "path": {
+          "alias": "/actualites/pension-gap-de-23-lecart-de-pension-entre-les-femmes-et-les-hommes-detaille-sur",
+          "pid": 4214,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2023-03-06",
+        "field_teaser": {
+          "value": "<p>Le site PensionStat.be offre désormais à ses visiteurs de nouvelles statistiques et données chiffrées sur l’écart de pension entre les femmes et les hommes en Belgique, ont annoncé lundi la ministre des Pensions Karine Lalieux et le ministre des Indépendants David Clarinval à l’occasion d’une journée d’études organisée dans le cadre de l’année « Genre et Pension ».</p>\r\n",
+          "format": "editor",
+          "processed": "<p>Le site PensionStat.be offre désormais à ses visiteurs de nouvelles statistiques et données chiffrées sur l’écart de pension entre les femmes et les hommes en Belgique, ont annoncé lundi la ministre des Pensions Karine Lalieux et le ministre des Indépendants David Clarinval à l’occasion d’une journée d’études organisée dans le cadre de l’année « Genre et Pension ».</p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "a6afc230-2425-4158-8d0e-0ad7aef8e589",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/a6afc230-2425-4158-8d0e-0ad7aef8e589?resourceVersion=id%3A8557"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 1908,
+        "langcode": "fr",
+        "status": true,
+        "title": "L'INASTI, l'autorité compétente pour enquêter sur les signalements de fraude sociale",
+        "created": "2023-02-16T09:50:07+00:00",
+        "changed": "2023-03-30T09:21:36+00:00",
+        "path": {
+          "alias": "/actualites/linasti-lautorite-competente-pour-enqueter-sur-les-signalements-de-fraude-sociale",
+          "pid": 3567,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2023-02-15",
+        "field_teaser": {
+          "value": "<p>La protection des lanceurs d'alerte est cruciale dans un État qui souhaite que ses services publics soient intègres. Les lanceurs d'alerte potentiels doivent avoir confiance dans la procédure et être certains qu'ils ne subiront pas de conséquences négatives s'ils signalent une fraude ou un abus. En 2019, il a été décidé qu'une législation était nécessaire au sein des États membres de l'Union européenne pour mieux protéger les lanceurs d'alerte.</p>\r\n",
+          "format": "editor",
+          "processed": "<p>La protection des lanceurs d'alerte est cruciale dans un État qui souhaite que ses services publics soient intègres. Les lanceurs d'alerte potentiels doivent avoir confiance dans la procédure et être certains qu'ils ne subiront pas de conséquences négatives s'ils signalent une fraude ou un abus. En 2019, il a été décidé qu'une législation était nécessaire au sein des États membres de l'Union européenne pour mieux protéger les lanceurs d'alerte.</p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "9be9fcfb-1dc8-4536-8d9c-6303ea958fcc",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/9be9fcfb-1dc8-4536-8d9c-6303ea958fcc?resourceVersion=id%3A10426"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 1905,
+        "langcode": "fr",
+        "status": true,
+        "title": "Cotisation à charge des sociétés 2023",
+        "created": "2023-01-13T09:55:26+00:00",
+        "changed": "2023-07-26T09:25:59+00:00",
+        "path": {
+          "alias": "/actualites/cotisation-charge-des-societes-2023",
+          "pid": 3564,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2023-01-13",
+        "field_teaser": {
+          "value": "<p>Les montants de la cotisation annuelle à charge des sociétés sont connus.</p>\r\n",
+          "format": "editor",
+          "processed": "<p>Les montants de la cotisation annuelle à charge des sociétés sont connus.</p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "9665f47a-0777-44c4-9b6d-83b0971d1f97",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/9665f47a-0777-44c4-9b6d-83b0971d1f97?resourceVersion=id%3A4536"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 1907,
+        "langcode": "fr",
+        "status": true,
+        "title": "Nouvelles mesures pour les indépendants à partir du 1er janvier 2023",
+        "created": "2023-02-01T13:52:02+00:00",
+        "changed": "2023-02-01T15:09:50+00:00",
+        "path": {
+          "alias": "/actualites/nouvelles-mesures-pour-les-independants-partir-du-1er-janvier-2023",
+          "pid": 3566,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2023-01-01",
+        "field_teaser": {
+          "value": "Le 1er janvier 2023, beaucoup de choses ont changé pour les indépendants. Voici un aperçu de ce qui change pour les indépendants.",
+          "format": "editor",
+          "processed": "Le 1er janvier 2023, beaucoup de choses ont changé pour les indépendants. Voici un aperçu de ce qui change pour les indépendants."
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "9117ebc7-a43d-441b-8f69-55b7acff1e37",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/9117ebc7-a43d-441b-8f69-55b7acff1e37?resourceVersion=id%3A4533"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 1904,
+        "langcode": "fr",
+        "status": true,
+        "title": "Difficultés dans le secteur de l’arboriculture fruitière: facilités de paiement",
+        "created": "2022-12-23T13:33:18+00:00",
+        "changed": "2022-12-23T13:45:01+00:00",
+        "path": {
+          "alias": "/actualites/difficultes-dans-le-secteur-de-larboriculture-fruitiere-facilites-de-paiement",
+          "pid": 3563,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2022-12-23",
+        "field_teaser": {
+          "value": "Les travailleurs indépendants du secteur de l’arboriculture fruitière qui éprouvent de graves difficultés à la suite de la crise énergétique et/ou de facteurs structurels et conjoncturels qui pèsent sur ce secteur, peuvent bénéficier de facilités de paiement.",
+          "format": "editor",
+          "processed": "Les travailleurs indépendants du secteur de l’arboriculture fruitière qui éprouvent de graves difficultés à la suite de la crise énergétique et/ou de facteurs structurels et conjoncturels qui pèsent sur ce secteur, peuvent bénéficier de facilités de paiement."
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "47bbb857-eaf9-4a16-8932-e61fd480f9ee",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/47bbb857-eaf9-4a16-8932-e61fd480f9ee?resourceVersion=id%3A12737"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 1851,
+        "langcode": "fr",
+        "status": true,
+        "title": "Difficultés suite au coronavirus ",
+        "created": "2020-03-03T09:37:30+00:00",
+        "changed": "2022-12-01T10:28:27+00:00",
+        "path": {
+          "alias": "/actualites/difficultes-suite-au-coronavirus",
+          "pid": 3504,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2022-12-01",
+        "field_teaser": {
+          "value": "Les travailleurs indépendants qui éprouvent des difficultés suite au coronavirus, peuvent faire appel aux mesures. ",
+          "format": "editor",
+          "processed": "Les travailleurs indépendants qui éprouvent des difficultés suite au coronavirus, peuvent faire appel aux mesures."
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "0384772a-6435-4288-be92-bfbf0cf6c170",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/0384772a-6435-4288-be92-bfbf0cf6c170?resourceVersion=id%3A8569"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 1899,
+        "langcode": "fr",
+        "status": true,
+        "title": "Difficultés suite à la crise énergétique",
+        "created": "2022-10-11T12:31:54+00:00",
+        "changed": "2023-04-21T13:50:06+00:00",
+        "path": {
+          "alias": "/actualites/difficultes-suite-la-crise-energetique",
+          "pid": 3556,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2022-11-25",
+        "field_teaser": {
+          "value": "<p>Les travailleurs indépendants qui éprouvent des difficultés suite à la crise énergétique, peuvent faire appel à différentes mesures.</p>\r\n",
+          "format": "editor",
+          "processed": "<p>Les travailleurs indépendants qui éprouvent des difficultés suite à la crise énergétique, peuvent faire appel à différentes mesures.</p>"
+        }
+      }
+    },
+    {
+      "type": "node--news",
+      "id": "b551463d-6084-45af-b828-0d54733b9a20",
+      "links": {
+        "self": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/b551463d-6084-45af-b828-0d54733b9a20?resourceVersion=id%3A4514"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 1888,
+        "langcode": "fr",
+        "status": true,
+        "title": "Difficultés dans le secteur porcin : facilités de paiement",
+        "created": "2022-03-16T08:53:30+00:00",
+        "changed": "2022-03-16T09:45:01+00:00",
+        "path": {
+          "alias": "/actualites/difficultes-dans-le-secteur-porcin-facilites-de-paiement",
+          "pid": 3544,
+          "langcode": "fr"
+        },
+        "field_publication_date": "2022-03-16",
+        "field_teaser": {
+          "value": "Les travailleurs indépendants qui éprouvent des difficultés à la suite de la poursuite de la diffusion de la peste porcine africaine au sein de l'Union européenne ou en raison d'autres facteurs conjoncturels qui pèsent sur le secteur porcin (les mesures prises dans le cadre de la crise de la COVID-19 et l'augmentation des prix de l'énergie et des aliments pour animaux) ont droit aux facilités de paiement.",
+          "format": "editor",
+          "processed": "Les travailleurs indépendants qui éprouvent des difficultés à la suite de la poursuite de la diffusion de la peste porcine africaine au sein de l'Union européenne ou en raison d'autres facteurs conjoncturels qui pèsent sur le secteur porcin (les mesures prises dans le cadre de la crise de la COVID-19 et l'augmentation des prix de l'énergie et des aliments pour animaux) ont droit aux facilités de paiement."
+        }
+      }
+    }
+  ],
+  "meta": {
+    "count": 44,
+    "omitted": {
+      "detail": "Some resources have been omitted because of insufficient authorization.",
+      "links": {
+        "help": {
+          "href": "https://www.drupal.org/docs/8/modules/json-api/filtering#filters-access-control"
+        },
+        "item--KaPUUx5": {
+          "href": "https://www.inasti.be/fr/jsonapi/node/news/65fd0ead-9ee3-432e-9b67-4c284014cd0b",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource."
+          }
+        }
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://www.inasti.be/fr/jsonapi/node/news?fields%5Bnode--news%5D=title%2Clangcode%2Cstatus%2Cpath%2Cfield_publication_date%2Cfield_teaser%2Ccreated%2Cchanged%2Cdrupal_internal__nid&filter%5Bstatus%5D=1&page%5Blimit%5D=50&sort=-field_publication_date%2C-created"
+    }
+  }
+}

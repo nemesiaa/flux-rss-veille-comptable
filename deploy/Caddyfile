@@ -1,0 +1,5 @@
+# Programme: Actualites publiques - Terminaison HTTPS automatique
+# Date: 2026-09-14 - Auteur: nemesiaa
+{$RSS_DOMAIN} {
+    reverse_proxy rss:3190
+}

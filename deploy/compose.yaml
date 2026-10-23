@@ -1,0 +1,28 @@
+# Programme: Actualites publiques - Auto-hebergement avec HTTPS Caddy
+# Date: 2026-09-14 - Auteur: nemesiaa
+services:
+  rss:
+    build:
+      context: ..
+      dockerfile: deploy/Dockerfile
+    restart: unless-stopped
+    environment:
+      PUBLIC_BASE_URL: https://${RSS_DOMAIN:?Renseigner RSS_DOMAIN}
+    volumes:
+      - rss_data:/app/data
+  caddy:
+    image: caddy:2-alpine
+    restart: unless-stopped
+    environment:
+      RSS_DOMAIN: ${RSS_DOMAIN:?Renseigner RSS_DOMAIN}
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+volumes:
+  rss_data:
+  caddy_data:
+  caddy_config:
