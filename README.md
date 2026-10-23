@@ -1,20 +1,26 @@
-# Flux RSS publics belges
+# Flux RSS pour la veille comptable
 
-Une veille fiscale et administrative qui rassemble cinq sources publiques belges dans des flux RSS fiables. Le service conserve les articles déjà collectés, évite les doublons et fournit le contenu des publications dans un format lisible par Inoreader.
+Flux RSS pour suivre les actualités de l'INASTI, du SPF Finances, de Belgium.be, du SPW Finances et de Fisconetplus dans Inoreader. Le service conserve les articles déjà collectés, évite les doublons et fournit le contenu des publications dans un format lisible.
 
 Le même code fonctionne sur un serveur Node.js ou sur Cloudflare Workers. Les données sont récupérées directement auprès des organismes officiels ; aucune plateforme RSS tierce n'est nécessaire.
 
-| Flux produit | Source officielle | Méthode |
+Projet indépendant, sans affiliation avec les organismes cités. Chaque article renvoie vers sa publication officielle.
+
+## Sources suivies
+
+| Organisme | Source utilisée | Flux produit |
 | --- | --- | --- |
-| `/rss/inasti.xml` | Actualités INASTI | API JSON:API Drupal |
-| `/rss/spf-finances.xml` | Actualités SPF Finances | RSS officiel vérifié et republié |
-| `/rss/belgium.xml` | Communiqués Belgium.be | RSS officiel et lecture des articles |
-| `/rss/spw-finances.xml` | Actualités SPW Finances | RSS officiel et lecture des articles |
-| `/rss/fisconetplus.xml` | Actualités Fisconetplus | API publique MyMinfin |
+| INASTI | [API des actualités](https://www.inasti.be/fr/jsonapi/node/news) | [`/rss/inasti.xml`](https://actualites.flux-publics.workers.dev/rss/inasti.xml) |
+| SPF Finances | [RSS officiel des actualités](https://finances.belgium.be/fr/Actualites/rss.xml) | [`/rss/spf-finances.xml`](https://actualites.flux-publics.workers.dev/rss/spf-finances.xml) |
+| Belgium.be | [RSS des communiqués](https://news.belgium.be/fr/feeds/all) | [`/rss/belgium.xml`](https://actualites.flux-publics.workers.dev/rss/belgium.xml) |
+| SPW Finances | [RSS des actualités](https://finances.wallonie.be/home/actualites/actualites.rss) | [`/rss/spw-finances.xml`](https://actualites.flux-publics.workers.dev/rss/spw-finances.xml) |
+| Fisconetplus | [API des actualités MyMinfin](https://www.minfin.fgov.be/myminfin-rest/fisconetPlus/public/news) | [`/rss/fisconetplus.xml`](https://actualites.flux-publics.workers.dev/rss/fisconetplus.xml) |
+
+L'INASTI ne proposait pas de flux RSS exploitable : sa source structurée JSON:API alimente le flux créé ici. Le SPF Finances propose déjà un RSS ; ce projet le valide et le republie pour les lecteurs qui rencontrent des blocages d'accès. Les autres sources utilisent leurs flux ou API officiels, avec lecture des articles lorsque le flux ne contient qu'un résumé.
 
 Chaque source possède aussi un alias `/<source>.xml`. Les chemins `/rss/<source>-complet.xml` donnent accès à une version destinée à l'importation du contenu intégral. Les liens et identifiants des articles restent ceux des sources officielles.
 
-Une instance est consultable sur [actualites.flux-publics.workers.dev](https://actualites.flux-publics.workers.dev/health). Par exemple : [flux INASTI](https://actualites.flux-publics.workers.dev/rss/inasti.xml) et [flux SPF Finances](https://actualites.flux-publics.workers.dev/rss/spf-finances.xml).
+L'[état de l'instance publiée](https://actualites.flux-publics.workers.dev/health) indique la fraîcheur du cache de chaque source.
 
 ## Prérequis
 

@@ -3,7 +3,7 @@
 // Execution: remplacer l identifiant KV, puis npm run cloud:deploy.
 // Produit: un Worker public et son declencheur de collecte planifiee.
 {
-  "name": "flux-rss-belgique",
+  "name": "flux-rss-veille-comptable",
   "main": "src/worker.js",
   "compatibility_date": "2026-09-01",
   "workers_dev": true,
